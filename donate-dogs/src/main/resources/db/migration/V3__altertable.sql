@@ -1,0 +1,1 @@
+ALTER TABLE donates RENAME COLUMN qtdDnt TO qtd;
